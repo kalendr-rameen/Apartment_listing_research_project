@@ -5,8 +5,8 @@
 **There are two types of data available for every apartment for sale. The first one is entered by the user, the second one is received automatically on the basis of the map data. For example, the distance to the center, the airport, the nearest park and body of water.**
 
 
-Data description:> 
-airports_nearest - distance to the nearest airport in meters (m)<br>
+Data description:
+> airports_nearest - distance to the nearest airport in meters (m)<br>
 balcony - number of balconies<br>
 ceiling_height - ceiling height (m)<br>
 cityCenters_nearest - distance to city center (m)<br>
