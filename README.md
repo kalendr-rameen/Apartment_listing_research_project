@@ -3,9 +3,9 @@
 
 # Apartment_listing_research_project
 
-**We have at our disposal data from Yandex Real Estate - an archive of advertisements on the sale of apartments in St. Petersburg and neighboring localities for several years. We need to determine the market value of the properties.**
+We have at our disposal data from Yandex Real Estate - an archive of advertisements on the sale of apartments in St. Petersburg and neighboring localities for several years. We need to determine the market value of the properties.
 
-**There are two types of data available for every apartment for sale. The first one is entered by the user, the second one is received automatically on the basis of the map data. For example, the distance to the center, the airport, the nearest park and body of water.**
+There are two types of data available for every apartment for sale. The first one is entered by the user, the second one is received automatically on the basis of the map data. For example, the distance to the center, the airport, the nearest park and body of water.
 
 ```
 Data description:
