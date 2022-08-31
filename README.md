@@ -28,3 +28,4 @@ rooms - number of rooms<br>
 studio - studio apartment (Boolean type)<br>
 total_area - area of the apartment in square meters (m²)<br>
 total_images - number of pictures of the apartment in the ad<br>
+ `#ffffff` 
