@@ -7,7 +7,7 @@ There are two types of data available for every apartment for sale. The first on
 
 Data description:
 
->   airports_nearest - distance to the nearest airport in meters (m)<br>
+>airports_nearest - distance to the nearest airport in meters (m)<br>
 balcony - number of balconies<br>
 ceiling_height - ceiling height (m)<br>
 cityCenters_nearest - distance to city center (m)<br>
