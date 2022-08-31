@@ -1,3 +1,6 @@
+!!This is my project made as part of the training in Yandex.Practicum!!
+
+
 # Apartment_listing_research_project
 
 **We have at our disposal data from Yandex Real Estate - an archive of advertisements on the sale of apartments in St. Petersburg and neighboring localities for several years. We need to determine the market value of the properties.**
