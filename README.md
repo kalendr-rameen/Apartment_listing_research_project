@@ -6,7 +6,9 @@
 
 
 Data description:
-'#airports_nearest - distance to the nearest airport in meters (m)'<br>
+
+```
+airports_nearest - distance to the nearest airport in meters (m)'<br>
 balcony - number of balconies<br>
 ceiling_height - ceiling height (m)<br>
 cityCenters_nearest - distance to city center (m)<br>
@@ -28,4 +30,4 @@ rooms - number of rooms<br>
 studio - studio apartment (Boolean type)<br>
 total_area - area of the apartment in square meters (m²)<br>
 total_images - number of pictures of the apartment in the ad<br>
- `#ffffff` 
+```
